@@ -109,6 +109,7 @@
     alt="TejasKabotula Contribution Graph"
   />
 </p>
+
 ---
 
 ### 📜 Certifications
