@@ -1,14 +1,28 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Tejas;AI+%26+ML+Undergraduate;Java+%7C+SQL+%7C+OOP+%7C+JDBC+Developer;500%2B+DSA+Problems+Solved" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=180&section=header&text=TEJAS%20SAINADH%20KUMAR%20KABOTULA&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 </div>
 
+<h3 align="center">🎓 B.Tech in Artificial Intelligence & Machine Learning | Sri Vasavi Engineering College</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-sainadh-kumar-kabotula">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/TejasKabotula">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:kabotulatejas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TejasKabotula&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
+</p>
+
+---
 <h3 align="center">🎓 B.Tech in Artificial Intelligence & Machine Learning | Sri Vasavi Engineering College</h3>
 
 <p align="center">
