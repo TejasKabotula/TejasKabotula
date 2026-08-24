@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Tejas+Sainadh+Kumar+K;AI+%26+ML+Undergraduate;Java+%7C+SQL+%7C+OOP+%7C+JDBC+Developer;500%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Tejas;AI+%26+ML+Undergraduate;Java+%7C+SQL+%7C+OOP+%7C+JDBC+Developer;500%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 <br/>
 
@@ -72,19 +72,6 @@
 
 </p>
 
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=TejasKabotula&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
-alt="Tejas's GitHub Contribution Activity"
-/>
-
-</p>
 
 
 ---
