@@ -15,11 +15,11 @@
   <a href="https://www.linkedin.com/in/tejas-sainadh-kumar-kabotula"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/TejasKabotula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:kabotulatejas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+919391320788"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=TejasKabotula&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
 </p>
 
 ---
